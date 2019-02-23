@@ -1,0 +1,22 @@
+{
+  "name": "mqtt-nodejs-broker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lironxyz@github.com/lironxyz/mqtt-nodejs-broker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lironxyz/mqtt-nodejs-broker/issues"
+  },
+  "homepage": "https://github.com/lironxyz/mqtt-nodejs-broker#readme",
+  "dependencies": {
+    "mosca": "^2.8.3"
+  }
+}
